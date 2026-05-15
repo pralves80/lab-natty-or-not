@@ -1,3 +1,5 @@
+![Capa do E-book](./capa.png)
+
 # A Nova Era do Cuidado: Como a IA Redefiniu o seu Bem-Estar 🏥✨
 
 ## 📒 Descrição
