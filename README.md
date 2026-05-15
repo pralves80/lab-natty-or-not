@@ -5,14 +5,14 @@ Este e-book explora a transição da medicina reativa para a saúde preditiva, d
 
 ## 🤖 Tecnologias Utilizadas
 - **ChatGPT**: Para a estruturação do roteiro e criação do conteúdo técnico.
-- **Canva**: Para a diagramação e design visual do e-book.
-- **IA Generativa de Imagem**: Para a criação de visuais conceituais de saúde tecnológica.
+- **Python (WeasyPrint)**: Para a geração do PDF profissional.
+- **Gemini**: Para auxílio na curadoria e organização do desafio.
 
 ## 🧐 Processo de Criação
-O roteiro foi gerado por IA com foco em três pilares: diagnósticos digitais, wearables e nutrição de precisão. O objetivo foi criar um conteúdo informativo que mostrasse a tecnologia de forma humanizada, evitando termos excessivamente técnicos ou visuais hospitalares frios.
+O roteiro foi gerado por IA com foco em três pilares: diagnósticos digitais, wearables e nutrição de precisão. O conteúdo foi formatado num PDF estruturado para simular um guia informativo de saúde moderna.
 
 ## 🚀 Resultados
-- [CLIQUE AQUI PARA ACESSAR O E-BOOK](./NOME_DO_SEU_ARQUIVO.pdf)
+- [ACEDA AO E-BOOK AQUI](./Ebook_Saude_Digital_IA.pdf)
 
 ## 💭 Reflexão
-O desafio de criar algo "Natty" na saúde digital é equilibrar a inovação tecnológica com a credibilidade e a segurança das informações, mantendo o usuário como protagonista.
+O desafio de criar algo "Natty" na saúde digital é equilibrar a inovação tecnológica com a credibilidade, mantendo o foco no bem-estar humano.
